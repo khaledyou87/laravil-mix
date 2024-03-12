@@ -1,0 +1,20 @@
+body {
+  font: 100% Helvetica, sans-serif;
+  color: #66c925;
+  background-color: #66c925;
+  height: 100%;
+}
+
+.bi {
+  color: black;
+  width: 20px;
+  height: 20px;
+}
+
+.foo {
+  font-family: "Dancing Script", cursive;
+}
+
+h2 {
+  color: #000;
+} /*# sourceMappingURL=app.css.map */

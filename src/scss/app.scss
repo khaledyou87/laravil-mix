@@ -1,0 +1,12 @@
+@import "common";
+$font-stack: Helvetica, sans-serif;
+$primary-color: #201e9b;
+
+body {
+  font: 100% $font-stack;
+
+  background-color: $primary-color;
+  height: 100%;
+  max-width: 100%;
+  overflow-x: hidden;
+}
